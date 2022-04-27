@@ -2,3 +2,10 @@ hi
 hllo
 hw r u 
 very well thanks u
+
+lets sing a song
+how are u
+
+where were u 
+i went to japan
+git add --interactive
